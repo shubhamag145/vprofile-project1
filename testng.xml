@@ -10,7 +10,5 @@
 			<class name="DevOPS.devOPS.VProfile_TestSuite"/>
 			</classes>
 	</test>
-	
-
-		
+			
 </suite>
